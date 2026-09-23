@@ -6,9 +6,7 @@ Upload a food photo → see what it is → check its nutrition → get a persona
 
 
 
-https://github.com/user-attachments/assets/cddc269f-7664-4954-89d0-3d4087910233
-
-
+https://github.com/user-attachments/assets/f110077a-56ed-443e-b8a9-7cf46310a91d
 
 
 
