@@ -5,20 +5,20 @@ Food Recognition, Recipe Generation & Calorie Intelligence System — a full-sta
 Upload a food photo → see what it is → check its nutrition → get a personalized AI recipe → track it as a meal → see trends on a dashboard.
 
 
-Uploading DeepChef.mp4…
+
 
 
 ## Tech stack
 - **Frontend:** React + Tailwind CSS (Vite)
 - **Backend:** FastAPI (Python)
 - **Database:** PostgreSQL
-- **AI:** Groq (Llama 4 Scout, vision) for food recognition; Groq (Llama 3.3) for recipe & meal plan generation
+- **AI:** Groq (qwen/qwen3.8-27b) for food recognition; Groq (openai/gpt-oss-120b) for recipe & meal plan generation
 - **Nutrition data:** USDA FoodData Central
 
 ## What works right now
 ✅ Food recognition (via Groq's vision model — see note below), AI recipe generation, stored recipe retrieval (generate-once, cached), nutrition lookup, portion scaling, nutrition score, meal & water tracking, dashboard, weekly meal planner, history, favorites, profile
 
-**Important note on food recognition:** this uses a vision-capable LLM (Groq/Llama 4 Scout), not a fine-tuned CNN classifier. That means:
+**Important note on food recognition:** this uses a vision-capable LLM (Groq/Qwen 3.8), not a fine-tuned CNN classifier. That means:
 - It's genuinely open-vocabulary (not limited to a fixed training-class list)
 - Confidence is a qualitative self-report ("high"/"medium"/"low"), not a calibrated probability score
 
