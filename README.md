@@ -16,7 +16,7 @@ Upload a food photo → see what it is → check its nutrition → get a persona
 - **Nutrition data:** USDA FoodData Central
 
 ## What works right now
-✅ Food recognition (via Groq's vision model — see note below), AI recipe generation, stored recipe retrieval (generate-once, cached), nutrition lookup, portion scaling, nutrition score, meal & water tracking, dashboard, weekly meal planner, history, favorites, profile
+✅ Food recognition (via Groq's vision model), AI recipe generation, stored recipe retrieval (generate-once, cached), nutrition lookup, portion scaling, nutrition score, meal & water tracking, dashboard, weekly meal planner, history, favorites, profile
 
 **Important note on food recognition:** this uses a vision-capable LLM (Groq/Qwen 3.8), not a fine-tuned CNN classifier. That means:
 - It's genuinely open-vocabulary (not limited to a fixed training-class list)
