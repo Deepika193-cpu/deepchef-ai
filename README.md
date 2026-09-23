@@ -10,7 +10,6 @@ Upload a food photo → see what it is → check its nutrition → get a persona
 
 
 
-
 ## Tech stack
 - **Frontend:** React + Tailwind CSS (Vite)
 - **Backend:** FastAPI (Python)
