@@ -4,6 +4,10 @@ Food Recognition, Recipe Generation & Calorie Intelligence System — a full-sta
 
 Upload a food photo → see what it is → check its nutrition → get a personalized AI recipe → track it as a meal → see trends on a dashboard.
 
+
+Uploading DeepChef.mp4…
+
+
 ## Tech stack
 - **Frontend:** React + Tailwind CSS (Vite)
 - **Backend:** FastAPI (Python)
