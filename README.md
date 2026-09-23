@@ -6,6 +6,10 @@ Upload a food photo → see what it is → check its nutrition → get a persona
 
 
 
+https://github.com/user-attachments/assets/cddc269f-7664-4954-89d0-3d4087910233
+
+
+
 
 
 ## Tech stack
@@ -61,7 +65,6 @@ DATABASE_URL=postgresql://user:password@localhost:5432/deepchef
 docker compose up --build
 ```
 
-## Testing
 ```bash
 cd backend
 pip install -r requirements-dev.txt
