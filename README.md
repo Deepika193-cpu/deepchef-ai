@@ -6,7 +6,8 @@ Upload a food photo → see what it is → check its nutrition → get a persona
 
 
 
-https://github.com/user-attachments/assets/f110077a-56ed-443e-b8a9-7cf46310a91d
+<img width="800" height="380" alt="DEEPCHEF" src="https://github.com/user-attachments/assets/08ca1e70-e239-4c02-a4b6-a4b59dc2f2fe" />
+
 
 
 
